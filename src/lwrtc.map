@@ -1,0 +1,6 @@
+{
+  global:
+    lwrtc_*;
+  local:
+    *;
+};
